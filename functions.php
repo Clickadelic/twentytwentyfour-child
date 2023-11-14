@@ -25,4 +25,4 @@ if(!class_exists('Twenty_Twenty_Four_Child')){
     }
 }
 
-$Twenty_Twenty_Four_Child = new Twenty_Twenty_Four_Child();
+$twentytwentyfour_child = new Twenty_Twenty_Four_Child();
