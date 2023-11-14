@@ -1,0 +1,17 @@
+/*
+Theme Name:   TwentyTwentyFour Child
+Theme URI:    https://github.com/Clickadelic/twentytwentyfour-child
+Description:  TwentyTwentyFour Gutenberg-ready child theme for the default WP-theme TwentyTwentyFour.
+Author:       Tobias Hopp
+Author URI:   https://www.tobias-hopp.de
+Template:     twentytwentyfour
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         Gutenberg, FSE
+Text Domain:  twentytwentyfour
+*/
+
+body {
+	background-color: aquamarine;
+}
